@@ -1,0 +1,24 @@
+{
+  "name": "xlsx-csv-stdin",
+  "version": "1.0.0",
+  "description": "xlsx csv wrapper allowing stdin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fijimunkii/xlsx-csv-stdin.git"
+  },
+  "author": "Harrison Powers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fijimunkii/xlsx-csv-stdin/issues"
+  },
+  "homepage": "https://github.com/fijimunkii/xlsx-csv-stdin#readme",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "exit-on-epipe": "^1.0.0",
+    "xlsx": "^0.8.1"
+  }
+}
